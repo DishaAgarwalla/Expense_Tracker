@@ -1,0 +1,11 @@
+.dark {
+  --bg-primary: #1a202c;
+  --bg-secondary: #2d3748;
+  --bg-tertiary: #4a5568;
+  --text-primary: #f7fafc;
+  --text-secondary: #e2e8f0;
+  --text-light: #cbd5e0;
+  --border-color: #4a5568;
+  --shadow-color: rgba(0, 0, 0, 0.3);
+  --primary-gradient: linear-gradient(135deg, #9f7aea, #b794f4);
+}
